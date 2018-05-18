@@ -6,3 +6,4 @@ function myfunction(){
   console.log(myLocal1);
 }
 myfunction();
+  
