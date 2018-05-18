@@ -1,2 +1,1 @@
-# declaring-variables
-# declaring-variables
+# Understanding Variable Scope
