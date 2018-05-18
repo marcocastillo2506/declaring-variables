@@ -7,7 +7,7 @@ myFunction():
 
 console.log(myVar);
 
-//This will go hdead and return global variable
+//This will go head and return global variable
 
 /*If you were to console.log variable inside the myFunction
 it will go ahead and return local variable
